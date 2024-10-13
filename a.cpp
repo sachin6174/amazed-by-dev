@@ -1,0 +1,1 @@
+// C language does not have templates and stl so it is hard to use it as a competitive prog lang

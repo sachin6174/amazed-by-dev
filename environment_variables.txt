@@ -1,0 +1,11 @@
+%USERPROFILE%\AppData  is same as C:\Users\sachi\AppData      where username will as as  a variable for different users
+
+C:\Program Files\Google\Chrome\Application      for adding chrome to path
+C:\smoothdraw4beta_2                                        for smooth draw
+
+To check powershell version –     $PSVersionTable
+ Download latest powershell  
+choco install powershell-core
+or
+https://github.com/PowerShell/PowerShell/releases/tag/v7.3.0
+

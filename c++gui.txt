@@ -1,0 +1,5 @@
+C:\Users\sachin\Documents\Embarcadero\Studio\Projects\Win32\Debug 
+At this location we will find our executable 
+We are using rad  studio
+ For making gui with help of c++
+https://youtu.be/FxQTXyR4mjs?t=3

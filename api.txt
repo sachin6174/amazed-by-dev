@@ -1,0 +1,102 @@
+Swiggy Api:
+https://www.swiggy.com/dapi/restaurants/list/v5?lat=30.71131414857127&lng=76.73191398382187&page_type=DESKTOP_WEB_LISTING
+
+https://www.swiggy.com/dapi/restaurants/list/v5?lat=30.71131414857127&lng=76.73191398382187&offset=15&sortBy=RELEVANCE&pageType=SEE_ALL&page_type=DESKTOP_SEE_ALL_LISTING
+
+ Make sure u are login
+
+Swiggy image api=> `https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/$
+{data.cards[i].data.data.cloudinaryImageId}`
+
+
+
+My used
+https://www.coinapi.io/   get coin exchange rate  (API Key: 1A816C63-4A88-4E54-BA23-CFC67F48B55F)
+https://docs.coinapi.io/market-data/rest-api/exchange-rates
+curl https://rest.coinapi.io/v1/exchangerate/BTC?apikey=1A816C63-4A88-4E54-BA23-CFC67F48B55F
+https://rest.coinapi.io/v1/exchangerate/BTC/USD?apikey=1A816C63-4A88-4E54-BA23-CFC67F48B55F
+https://rest.coinapi.io/v1/exchangerate/BTC/INDIA?apikey=1A816C63-4A88-4E54-BA23-CFC67F48B55F    in params also knows as identifier in express  and v1 is original folder see in coding ninjas web dev
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+—------------------------------------------------------------------------------------------------------
+
+
+
+https://apipheny.io/free-api/
+
+https://any-api.com/
+
+https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/
+
+
+https://gorest.co.in/
+
+https://rapidapi.com/collection/list-of-free-apis
+https://dev.to/ruppysuppy/7-free-public-apis-you-will-love-as-a-developer-166p
+
+
+https://jsonplaceholder.typicode.com/
+
+https://reqres.in/
+
+https://www.instantwebtools.net/fake-rest-api#create-airline    (post)
+
+We can get api on any site:
+	https://api.codingninjas.com/api/v3/courses
+
+Get ur longi and lati:
+https://www.latlong.net/
+	
+(30.711327, 76.731928)
+
+https://api.openweathermap.org/data/2.5/weather?lat=30.711327&lon=76.731928&appid=841f8d1bd9510f89725f5741f32ee238&units=metric"
+
+https://api.openweathermap.org/data/2.5/weather?q=&unit=metric&appid=841f8d1bd9510f89725f5741f32ee238
+
+
+
+
+
+
+
+
+https://dog.ceo/dog-api/
+
+
+
+
+https://dog.ceo/api/breeds/image/random
+
+
+https://dog.ceo/dog-api/documentation/
+
+
+https://google.com/search?q=tuda
+
+
+
+Api:  https://docs.google.com/document/d/1x2lr0qhAdQS6AJqcKBRd8AK3kPc3d4Y8tYKuf0v_hS0/edit
+
+Lib:
+Httplib 
+urllib 
+Requests
+
+Starting with 2 is pass of request
+Starting with 4 mean request fail

@@ -1,0 +1,3 @@
+https://developer.hashicorp.com/vagrant/downloads
+
+Available for vm ware also

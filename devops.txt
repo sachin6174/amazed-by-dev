@@ -1,0 +1,11 @@
+PlayList of  Devops:
+
+https://www.youtube.com/watch?v=eX3ZimWWHh4&list=PLBGx66SQNZ8aPsFDwb79JrS2KQBTIZo10
+
+
+Jenkins ( like your software) : https://www.youtube.com/watch?v=vxSXqvQy95g&list=PLBGx66SQNZ8aPsFDwb79JrS2KQBTIZo10&index=37
+
+
+Ci Cd:
+https://www.youtube.com/watch?v=N-Iv4KIOvKY&list=PLBGx66SQNZ8aPsFDwb79JrS2KQBTIZo10&index=36
+

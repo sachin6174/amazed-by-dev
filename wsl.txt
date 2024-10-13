@@ -1,0 +1,43 @@
+https://learn.microsoft.com/en-us/windows/wsl/install
+
+https://youtu.be/myouQBBDhXQ
+
+ENABLE SUBSYSTENM FOR LINUX )IN TURN ON AND OFF WINDOW FEATURES
+
+Wsl softwARE LINK
+https://drive.google.com/drive/folders/1jj64iEp4BkpAcxLeJ6Iam9VXY8iYMANe
+
+
+wsl --update
+
+Wsl –install
+
+wsl --install -d ubuntu
+
+wsl --set-default-version 1
+
+For chandan:
+Open powershell in admin mode
+
+wsl --install -d kali-linux
+
+Get-ItemPropertyValue `
+      -Path HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Lxss `
+      -Name DefaultVersion
+
+
+
+wsl --set-default-version 2
+
+dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
+
+
+
+wsl --set-default-version 2
+
+Installing, this may take a few minutes...
+WslRegisterDistribution failed with error: 0x800701bc
+Error: 0x800701bc WSL 2 requires an update to its kernel component. For information please visit https://aka.ms/wsl2kernel
+
+Press any key to continue...
+
