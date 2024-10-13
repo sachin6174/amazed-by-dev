@@ -100,3 +100,46 @@ Requests
 
 Starting with 2 is pass of request
 Starting with 4 mean request fail
+
+
+https://api.unsplash.com/users/samuelzeller/photos
+
+Get Apt Data in cmd:
+ curl https://api.github.com/users/hadley/repos
+	
+
+Json Beautifier:
+https://chrome.google.com/webstore/detail/json-viewer-pro/eifflpmocdbdmepbjaopkkhbfmdgijcc
+
+Api Details And Available EndPoints
+
+https://murmuring-mesa-55795.herokuapp.com/jvn?num1=10&num2=15
+
+https://murmuring-mesa-55795.herokuapp.com/hrng?num1=10&num2=15
+
+https://murmuring-mesa-55795.herokuapp.com/trng?num1=10&num2=15
+
+https://murmuring-mesa-55795.herokuapp.com/jsmathrandom?num1=10&num2=15
+
+https://murmuring-mesa-55795.herokuapp.com/mixed?num1=10&num2=15
+
+https://murmuring-mesa-55795.herokuapp.com/about
+
+https://jsonplaceholder.typicode.com/todos/101                (any no at last)
+
+https://mocki.io/v1/d4867d8b-b5d5-4a48-a4ab-79131b5809b8
+
+https://api.openweathermap.org/data/2.5/weather?q=usa&unit=metric&appid=44c9a010fc226d7fe3f5823247fada87
+
+https://api.github.com/users/hadley/orgs
+
+https://api.github.com/users/hadley/repos
+
+https://api.github.com/repos/hadley/ggplot2/commits
+
+https://api.github.com/repos/hadley/ggplot2/issues
+
+
+
+
+

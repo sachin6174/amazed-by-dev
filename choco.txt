@@ -1,0 +1,91 @@
+Chocolatey
+Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
+
+
+
+
+choco upgrade chocolatey  # to upgrade
+
+choco install docker-desktop -y
+
+ start-process PowerShell -verb runas     change to admin in powershell
+
+@"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "[System.Net.ServicePointManager]::SecurityProtocol = 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin" 
+
+Install using cmd
+
+git config --global user.name myusername 
+git config --global user.email myemail
+
+
+Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
+
+// muck check multiple varieties of software on choco community
+
+choco install ffmpeg -y
+
+choco install mingw -y
+
+choco install ruby -y
+choco install xampp-81 -y
+
+
+choco install server-jre -y # error
+
+
+choco install 7zip   (normal)
+choco install 7zip.install  (more feature)
+choco install 7zip.portable (cli)
+choco install lavfilters #automatic installed with openboard
+
+choco install office-tool
+choco install microsoft-edge
+choco install onenote
+choco install windirstat
+choco install deluge -y --ignore-checksums
+
+choco install partitionmasterfree -y
+
+
+
+
+
+
+
+
+
+
+
+choco install intel-rst-driver -y
+choco install virtualbox -y
+choco install intel-graphics-driver -y --ignore-checksums
+
+choco install vscode -y --ignore-checksums
+choco install python -y
+choco install chocolatey -y
+choco install googlechrome -y
+choco install powershell-core -y
+choco install protonvpn -y --force
+choco install oraclejdk -y
+choco install mingw -y
+choco install winrar -y
+choco install vagrant -y
+choco  install terraform -y
+choco install 7zip -y
+choco install formatfactory -y --ignore-checksums
+choco install git -y
+choco install vim -y
+choco install nodejs -y
+choco install geogebra-classic.install -y
+choco install megasync -y --ignore-checksums
+choco install gpg4win -y
+choco install openboard -y
+choco install vscode -y
+choco install telegram -y
+choco install supportassist -y --ignore-checksums
+choco install vlc -y
+choco upgrade all -y
+
+
+
+

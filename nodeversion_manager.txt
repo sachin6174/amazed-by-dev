@@ -1,0 +1,58 @@
+Node Version Manager
+
+nvm install 0.8
+nvm use 0.8
+
+
+
+
+3. Use the Latest Version:
+To switch to the latest installed version of Node.js:
+bash
+Copy code
+nvm use node
+
+4. Check the Installed Node Version:
+Once you've switched to the latest version, check the current Node.js version:
+bash
+Copy code
+node -v
+
+
+
+
+
+It seems that you're encountering an issue with nvm not being recognized in PowerShell. On Windows, nvm-windows might only work correctly in Command Prompt (cmd) but not in PowerShell.
+Here's what you can do:
+Run nvm commands in Command Prompt:
+Open Command Prompt (not PowerShell) and run the nvm commands there.
+For example:
+bash
+Copy code
+nvm install 0.8
+nvm use 0.8
+
+
+Add nvm to PowerShell (optional but advanced step): If you prefer to use nvm in PowerShell, you can manually modify your environment variables:
+Add nvm to Path:
+Right-click on the Start Menu and choose System.
+Click Advanced system settings and then Environment Variables.
+In the System Variables section, find the Path variable, select it, and click Edit.
+Add the path to where nvm is installed. By default, this should be:
+bash
+Copy code
+C:\Program Files\nvm
+
+
+Also, add the path for Node.js binaries (when nvm is using a specific Node.js version):
+bash
+Copy code
+C:\Program Files\nodejs
+
+
+Save the changes.
+Restart PowerShell to apply the changes and try running nvm commands again.
+Quick Solution:
+If modifying environment variables seems too complicated for now, I suggest using Command Prompt (cmd) for nvm commands.
+Would you prefer to use Command Prompt or set it up in PowerShell?
+

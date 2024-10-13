@@ -1,0 +1,30 @@
+https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-x64
+// download link not needed
+
+
+Do this stp by step
+
+sudo apt update
+sudo apt install software-properties-common apt-transport-https wget
+
+wget -q https://packages.microsoft.com/keys/microsoft.asc -O- | sudo apt-key add -
+
+
+sudo add-apt-repository "deb [arch=amd64] https://packages.microsoft.com/repos/vscode stable main"
+
+sudo apt update
+sudo apt install code
+
+
+
+
+
+alias code="DONT_PROMPT_WSL_INSTALL=true code"
+export DONT_PROMPT_WSL_INSTALL=true
+
+
+
+
+//need to do this every time we open 
+
+sudo code --no-sandbox --user-data-dir=~/.vscode-root
