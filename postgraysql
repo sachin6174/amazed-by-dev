@@ -1,0 +1,6 @@
+psql -h b6ehbwgb4qovcwqqiky3-postgresql.services.clever-cloud.com -p 5432 -U uxbo8gozhbzqbyylknyi -d b6ehbwgb4qovcwqqiky3
+
+path:
+C:\Program Files\PostgreSQL\14\bin
+
+https://www.youtube.com/watch?v=0EBkVzIBnoc

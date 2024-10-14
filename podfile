@@ -1,0 +1,13 @@
+This error message typically occurs when the pod command is not installed on your system or it is not in your system's PATH.
+If you are using macOS and have installed CocoaPods using Homebrew, you can try running the following command to add the CocoaPods executable to your PATH:
+Copy Code
+echo 'export PATH="/usr/local/bin:$PATH"' >> ~/.zshrc
+
+Then close and reopen your terminal window for the changes to take effect.
+If you have not installed CocoaPods yet, you can install it by running the following command:
+Copy Code
+sudo gem install cocoapods
+Or brew install cocoapods
+
+Note that you need to have Ruby installed on your system to be able to use CocoaPods.
+

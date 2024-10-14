@@ -1,0 +1,119 @@
+https://www.youtube.com/watch?v=cjkksEmH9Ig&t=182s
+
+https://console.clever-cloud.com/users/me
+
+path :
+C:\Program Files\MySQL\MySQL Server 8.0\bin
+
+Or if xampp:
+https://www.youtube.com/watch?v=ZO9g5JTyvQY
+
+
+To connect:
+mysql -h bhmhnskkjzkz7cjchd90-mysql.services.clever-cloud.com -P 3306 -u ubaqteg8fou5ht1g -p bhmhnskkjzkz7cjchd90
+
+
+
+Password: fuIm8xWRMVm3CwmLOG1W
+
+It should be used:
+mysql -h localhost -P 3306 -u root -p databasename
+
+
+Cli: cmd
+
+Gui: workbench sql
+
+
+Create table student
+( uid VARCHAR(30),
+fname VARCHAR(30),
+lname VARCHAR(30) );
+
+
+Cheat sheet for sql:
+https://www.codewithharry.com/blogpost/mysql-cheatsheet/
+
+
+
+
+
+
+Bunty dB:
+
+
+Brew install mysql
+Choco install mysql
+
+
+mysql -h b5faam2cuacswoln8vxe-mysql.services.clever-cloud.com -P 3306 -u u13qguvhian3v7r3 -p b5faam2cuacswoln8vxe
+
+password:uC9ahCmGxEKLgMK8WnVz
+
+
+
+
+CRUD  -> create read update delete
+
+
+
+Data Types:
+	
+	https://dev.mysql.com/doc/refman/8.0/en/integer-types.html#:~:text=MySQL%20supports%20the%20SQL%20standard,range%20for%20each%20integer%20type.
+
+https://www.w3schools.com/mysql/mysql_datatypes.asp
+
+VARCHAR(size)
+INT
+Create table student
+( uid VARCHAR(30),
+fname VARCHAR(30),
+lname VARCHAR(30) );
+
+
+
+
+
+
+
+
+
+
+
+Creating table:
+
+CREATE table users(
+	username varchar(30) NOT NULL PRIMARY KEY,
+	password varchar(30),
+	name varchar(30),
+	);
+
+Inserting a row into table:
+
+Insert into users (username,password,name)
+values(‘ninja’,’bunty2020’,’bunty chauhan’)
+
+2nd method shorthand :
+INSERT INTO agents
+VALUES ("A001","Jodi","London",.12,"075-1248798");
+
+
+
+Clear entry of table without deleting table:
+TRUNCATE TABLE Categories;
+
+
+
+Deleting a complete table:
+DROP TABLE table_name;
+
+
+Delete a row from table:
+DELETE FROM user WHERE username=’ninja’;
+
+
+Update a cell in table:
+
+UPDATE users
+SET password= ‘sachin123’ 
+WHERE username=’sachin6174’;

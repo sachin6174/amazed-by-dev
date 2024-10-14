@@ -1,0 +1,40 @@
+incmd:
+
+mongosh "mongodb+srv://sachin.7rrss.mongodb.net/myFirstDatabase" --apiVersion 1 --username sachin
+
+Using gui:
+Compass
+
+
+
+
+Bunty(mongodb):
+mongo --host rs0/n1-c2-mongodb-clevercloud-customers.services.clever-cloud.com:27017,n2-c2-mongodb-clevercloud-customers.services.clever-cloud.com:27017 --port 27017 --username=utkxheewiulqbfr0d31f biaklxxhrgyd4qu
+
+Mongodb cheat sheethttps://www.codewithharry.com/blogpost/mongodb-cheatsheet/
+
+
+db.to.insert({
+    'name': 'Harry',
+    'lang': 'JavaScript',
+    'member_since': 5
+ })
+
+
+
+
+
+db.to.insertMany([{
+    'name': 'Harry',
+    'lang': 'JavaScript',
+    'member_since': 5
+    }, 
+    {'name': 'Rohan',
+    'lang': 'Python',
+    'member_since': 3
+    },
+    {'name': 'Lovish',
+    'lang': 'Java',
+    'member_since': 4
+}])
+

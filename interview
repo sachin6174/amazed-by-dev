@@ -1,0 +1,417 @@
+//interview  —
+
+Do coding on sites
+MAKE resume math heavy
+Learnskills
+UP
+DSA
+Stocks
+Math jee rubik's chess
+Movie sun sat
+
+Speaking  (on crowded bus)
+Direction question in mind
+Time question (work and speed)
+Ap and interest
+Indiabix.com (questions from here)
+Permutation and combination questions
+Reduce number of search in bubble sort (optimized bubble sort)
+Ratio and proportion 
+Partnership
+
+Letters (English alphabets)
+Recursive call (Number of calls)
+
+Complexity of a loop
+Find missing number in a number pattern
+
+Sitting arrangement
+Factor of number fast
+Linear equation
+Coding decoding
+Mixtures
+
+Number stored at place of 3498 in 4 bit
+Blood relations
+Set theory
+
+
+Project 
+Tensorflow :multi level perceptron
+
+Detailed discussion of each project on resume
+Your favorite subject
+Sql queries
+3 sum closet
+Find complexity of given code
+Data preprocessing( open cv  image processing lib open cv js lib)
+
+Oops ->inheritance types polymorphism constructor and its types
+Sort according to size of no of elements of frequency
+
+Sliding window negative number in all windows of size k
+
+Inequalities
+
+
+
+
+
+
+//c++
+
+C++ 👍
+	Fast fourier transformation multiply two polygon
+	Point value form to coefficient form
+	Bitwise operator and or left shift right shift xor not
+Clear kth bit
+Toggle kth bit
+All bit manupulation formula
+% wor with int only
+2s complement 
+Power of 2 results
+Matrix exponentiation in log n complexity
+Matrix exponentiation to find nth fibonacci in log n
+Euler totient function
+KMP
+Queue
+Merge sort
+Heap sort
+Cstring library 	
+Priority queue
+	Comparison function 
+Comparison function using structure
+	Comparison function using class
+	Buitin and make your own
+String class
+Subsequence vs substring
+Redix sort
+Count sort
+Quick sort
+Collatz conzucture or hail stone problem
+
+odd*even= even
+even*even =even
+odd* ood =ood
+Learn about <sys/time.h>
+Singly and doubly linked list and their built in lib
+Making a maths library name with chapters
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+///   tourist 👍
+	Chandigarh tourist palce:
+	Bird park
+     		https://youtu.be/RHnrXJCX1QE
+
+
+
+
+
+//python —-
+
+Number System in Python 
+	Complex number (used in electronics ,optics and Quantum)
+Foruoir transform
+Audio signal processing
+Speech recogni system
+
+	Program mandelbrot set
+	In loop from 1 10 , by gap of 0.1:
+		Plot (a*a-b*b  ,  2*a*b) fater then 20 iterations
+Delete a variable in python
+
+Titanic data set do preprocessing and 
+
+Mnist   data set hand digit recognition
+Two function with same signature but different return type ,then compiler is not able to differentiate.
+
+Json read and write in python
+
+
+Learn about builtin data structures in python ➕and their methods
+
+	Eg for array-> append remove
+	2d array (list )
+
+	String methods like
+		name.startWith(“sa”)
+
+Dictionaries and sets in python
+
+
+Tensorflow  pytorch 
+Gpu / TpU
+Deep neural network
+Sk learn
+Coding ninja of data science
+
+Learn numpy
+Fast iteration on data structures
+Default arguments of functions,
+Send more and less number of parameter then actual
+Jupyter notebook
+reinforcement learning
+supervised learning
+Unsupervised learning
+Learn django framework
+Tkinter
+Pandas
+Http s response in python send and receive
+
+Oops and advanced oops in python
+Learn jupyter  notebooks commands magic command and mark down
+__vhj__ and arg and karg
+News reader app auto trading system
+Decorators
+Matplotlib
+Pillow lib for images
+Pyinstaller to convert a program in to exe
+
+
+
+
+
+
+// mongo db
+	https://account.mongodb.com/account/login?n=%2Fv2%2F616feff2e0d4c7515b30b581&nextHash=%23clusters
+
+
+// ncert
+https://ncert.nic.in/textbook.php?aulb1=0-27
+
+//unsample image api
+https://unsample.net/
+
+
+//mac os
+
+Command changing 👍
+	Cd abc; touch a.txt (channing command using  ;)
+	Command +shift+k to clean the project
+	Window key in window act as command in mac
+	Alt key in window act as option in mac
+	You can go to keyboard setting to modify the keys
+	F4 for menu
+	option +space to activate siri
+	Shift +command+3   screenshot
+	Command +space   for spotlight search
+	Command Q to Quit
+	Cmd+ c to copy 
+	Cmd+ v to paste ( a copy will be pasted)
+	Cmd +option+ v ( to move )
+	Cmd+d to duplicate 
+
+Code Completion (⌃ + Space): Use this shortcut to bring up code completion, which is essential for exploring APIs and saving time while typing code [1].
+Moving Lines (⌥ + ⌘ + [ and ⌥ + ⌘ + ]): Easily move single lines or entire blocks of code around in your project, making code organization more efficient [1].
+Delete Entire Line (⌘ + D): Quickly delete an entire line of code with this shortcut. You can customize the key binding for this command in Xcode settings [1].
+Balance Indentation (⌃ + I): Use this shortcut to adjust the indentation of a line or a block of code. It's particularly useful when pasting code from external sources like Stack Overflow [1].
+Going Back and Forth (⌃ + ⌘ + ← and ⌃ + ⌘ + →): Easily navigate between different locations in your source code by going back and forth using these shortcuts [1].
+Jump to Definition (⌃ + ⌘ + J or ⌃ + ⌘ + Click): When working with unfamiliar APIs or exploring codebases, use this shortcut to quickly jump to the definition of a symbol to understand its methods, properties, and inheritance hierarchy [1].
+Find Selected Symbol in Workspace (⇧ + ⌃ + ⌘ + F): This shortcut helps you find all instances of a selected symbol in your project, providing insights into its usage and allowing for easier refactoring [1].
+Find Call Hierarchy (⇧ + ⌃ + ⌘ + H): Use this shortcut to view the call hierarchy of a selected method. It displays all the places in your codebase where the method is called, helping you understand its usage [1].
+Open Quickly (⇧ + ⌘ + O): This powerful shortcut allows you to quickly navigate to any source location in your project or workspace by typing the name of the class, function, or other symbols [1].
+Jump to Line (⌘ + L): Easily navigate to a specific line in the current file by using this shortcut [1].
+Document Outline (⌃ + 6 or ⌘ + hovering the minimap): Use ⌃ + 6 to access a drop-down menu with all the symbols in the current source file. Hovering over the minimap while pressing ⌘ displays a float with the name of the symbol under the cursor [1].
+Toggle Canvas / SwiftUI Preview (⌥ + ⌘ + ↩): This shortcut allows you to toggle the live preview of your SwiftUI code in Xcode's Canvas. It helps you quickly visualize changes to your UI without launching the application [1].
+Toggle Views: Xcode has three main areas surrounding the code editor that can be toggled to maximize editing space or display contextual information:
+Toggle Navigator (⌘ + 0): Show or hide the Navigator area on the left side [1].
+Toggle Inspectors (⌘ + ⌥ + 0): Show or hide the Inspectors area on the right side [1].
+Toggle Debug area (⇧ + ⌘ + Y): Show or hide the Debug area at the bottom [1].
+These shortcuts can significantly enhance your productivity and speed up your coding process in Xcode. Feel free to explore and experiment with them to find the ones that work best for you!
+
+
+
+
+	Mac in cloud and take remote support
+	Use hackentosh dual boot
+	
+Add image of setting of khyati xcode for suremdm
+
+Way to install in swift:
+	Dynamic framework;
+	Cocopods
+	Pod init;open podfile -a Xcode +enter
+
+Carthage
+Vertical horizontal and zstack axis
+Declarative swift programing
+App design and code structuring
+Local data persistence [user default]
+Table view controller
+Command line tool 
+	Parameter from code 👍
+	Let option = commandline.args[1]  // parcase
+	print()
+	readLine();
+Databases:
+Coredata
+Icloud
+Autolayout cookbook
+Nsdate picker
+If ui not work then just drop again on storyboard
+Objective c lang
+Ios ->cocoa framework
+
+Let data.standard;
+I want to know is there a way to if i change in current then previous or net window get affected
+To  close a window on button
+	self.view.window!.close()
+Utility.getvalue and .get serialNumber
+Learn as!
+Outlet 
+Action
+
+Layout: frames and autolayout
+Autolayout cookbook
+Bundle identifier is opposite of website name
+Interface  :story board +Swift Ui
+ 
+
+
+
+
+/// window install
+
+NTFS:
+FAT32:
+EXFat:
+MBR/Gpt
+Hcfs
+Legacy vs secure
+
+//  objective c
+Learn xinymin.com
+
+
+
+
+
+// gem package manager
+// sudo gem install cocoapods
+
+
+
+
+ 
+Aptitude:- (see short tricks do a lot of question)
+English:-
+	Read comprehension
+	Vocabulary
+	Synonyms
+	Antononom
+	Contextual vocabulary
+	Grammar error detection
+	Sentence improvement and correlation
+
+Core :- (See gate Shameshrs) bharatAcharya ,angela ,Coding ninjas
+
+	Add database and payment integration
+	Fb or google signup  or login
+	Api - compiler api ,google map api
+Math Type keyboard ,heuristics
+50  page notes of all subjects of core
+Try to give test 
+Write solution on paper
+
+Competitive prog +Algo and Dsa (read) +10 min typing practice
++Do 1 puzzle daily +(read 1-2 page of gfg)
+
+C++
+C
+javaScript
+Java
+Dart
+Php
+Keywords of languages and use
+Basic control flow
+Inversion count
+Booth algo gui project
+
+A (100 )
+B(200)
+C(300)
+What percentage is salary of c is greater than that of A
+
+
+Good Playlist:
+(complete ccna)
+https://www.youtube.com/watch?v=a3w5a3rys80&list=PLBGx66SQNZ8ZvdIoctCTWB3ApXQpQGEin&index=1
+(2x)
+
+Ipv-6:
+https://www.youtube.com/watch?v=I82Kn7K7ioE&list=PLBGx66SQNZ8ZjaqNaEEh6KBJLZjGC8WAu
+
+
+Networking:
+	Osi:
+All 
+People 
+Seems
+To
+Need 
+Data
+Preprocessing	
+	Tcp
+Udp
+IpV4 address (classes ) 
+
+Application layer protocols:
+	Ftp
+Http
+Sftp
+Https
+Pop
+Smtp
+DNs
+PORT NUMBERS.
+
+LAn wan MAn
+Topology
+
+Mac Address
+
+Proxy servers
+Servers
+
+Devices:
+	Routers
+	Hubs
+	Switchers
+	Repeaters
+SubNetting
+Super Netting
+
+
