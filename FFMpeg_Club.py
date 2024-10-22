@@ -63,3 +63,4 @@ for cmd in commands:
     execute_command(cmd)
 
 # ffmpeg -f concat -safe 0 -i file_list.txt -c copy output.mp4
+#ffmpeg -i input_video.mp4 output_frame_%04d.png
